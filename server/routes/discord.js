@@ -8,7 +8,7 @@ let messageObj = [];
 
 client.login(config.token);
 
-client.on("ready", (channel) => {
+client.on("ready", () => {
   const channelTesting = client.channels.get(config.channel);
   console.log("I am ready!");
   channelTesting.fetchMessages()
