@@ -1,8 +1,8 @@
 ---
 author: Edson Ayllon
-category: node app
+category: functionality
 tags: 
-- functionality
+- node
 - api
 - discord
 - javascript
