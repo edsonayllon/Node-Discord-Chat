@@ -1,13 +1,25 @@
+---
+author: Edson Ayllon
+category: node app
+tags: 
+- functionality
+- api
+- discord
+- javascript
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+### Modular 1-2018 
+
 # Node Discord Chat
 
-<!-- TOC START min:1 max:3 link:true update:true -->
-- [Node Discord Chat](#node-discord-chat)
-  - [1 | Description](#1--description)
-  - [2 | Getting Started](#2--getting-started)
-    - [2.1 Installing](#21-installing)
-    - [2.2 Running](#22-running)
+## Contents
 
-<!-- TOC END -->
+- [1 | Description](#1--description)
+- [2 | Getting Started](#2--getting-started)
+  - [2.1 Installing](#21-installing)
+  - [2.2 Running](#22-running)
 
 ## 1 | Description
 
