@@ -10,9 +10,11 @@ status: complete
 twitter: https://twitter.com/relativeread
 ---
 
-### Modular 1-2018 
+## Modular 1-2018 
 
 # Node Discord Chat
+
+This app communicates to the Discord API by using a Discord bot that has joined a Discord server.
 
 ## Contents
 
